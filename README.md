@@ -10,7 +10,4 @@ Overview
 3. Goal Management: Set and track fitness goals.
 4.User-Friendly Interface: Simple navigation and intuitive design.
 
- Setup Instructions
-Clone the Repository:
-bash
-cd FitQuest
+https://github.com/Hemin1404/Fitquest.git
